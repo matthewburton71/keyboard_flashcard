@@ -1,0 +1,41 @@
+PODS:
+  - flutter_midi_command (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - package_info_plus (0.0.1):
+    - FlutterMacOS
+  - universal_ble (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - wakelock_plus (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_midi_command (from `Flutter/ephemeral/.symlinks/plugins/flutter_midi_command/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - package_info_plus (from `Flutter/ephemeral/.symlinks/plugins/package_info_plus/macos`)
+  - universal_ble (from `Flutter/ephemeral/.symlinks/plugins/universal_ble/darwin`)
+  - wakelock_plus (from `Flutter/ephemeral/.symlinks/plugins/wakelock_plus/macos`)
+
+EXTERNAL SOURCES:
+  flutter_midi_command:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_midi_command/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  package_info_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/package_info_plus/macos
+  universal_ble:
+    :path: Flutter/ephemeral/.symlinks/plugins/universal_ble/darwin
+  wakelock_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/wakelock_plus/macos
+
+SPEC CHECKSUMS:
+  flutter_midi_command: c1a74de594e48e8fffd195a2ed5746161d507a48
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  package_info_plus: 12f1c5c2cfe8727ca46cbd0b26677728972d9a5b
+  universal_ble: cf52a7b3fd2e7c14d6d7262e9fdadb72ab6b88a6
+  wakelock_plus: 4783562c9a43d209c458cb9b30692134af456269
+
+PODFILE CHECKSUM: 7eb978b976557c8c1cd717d8185ec483fd090a82
+
+COCOAPODS: 1.16.2
